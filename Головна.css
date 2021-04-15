@@ -1587,6 +1587,12 @@
 
 .u-section-14 .u-sheet-1 {
   min-height: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-14 .u-sheet-1 {
+    min-height: 104px;
+  }
 }.u-section-15 .u-sheet-1 {
   min-height: 217px;
 }
