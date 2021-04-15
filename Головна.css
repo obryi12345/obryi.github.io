@@ -81,6 +81,7 @@
 .u-section-1 .u-image-1 {
   width: 230px;
   height: 288px;
+  animation-duration: 1000ms;
   margin: 13px auto 0;
 }
 
@@ -96,7 +97,8 @@
 .u-section-1 .u-image-2 {
   height: 287px;
   width: 231px;
-  margin: 14px auto 0;
+  animation-duration: 1000ms;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-layout-cell-4 {
@@ -111,6 +113,7 @@
 .u-section-1 .u-image-3 {
   height: 286px;
   width: 230px;
+  animation-duration: 1000ms;
   margin: 33px auto 0;
 }
 
@@ -934,6 +937,7 @@
 
 .u-section-6 .u-text-1 {
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: -11px auto 0;
 }
 
