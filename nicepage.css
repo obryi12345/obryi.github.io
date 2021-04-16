@@ -35378,7 +35378,7 @@ a.u-link.u-text-hover-grey-90:hover {
   animation-duration: 1000ms;
   font-weight: 700;
   font-size: 1.25rem;
-  margin: -48px auto 0 146px;
+  margin: -48px 586px 0 146px;
 }
 
 .u-header .u-menu-1 {
@@ -35415,6 +35415,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: -48px;
+    margin-right: 486px;
   }
 
   .u-header .u-menu-1 {
@@ -35441,6 +35442,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -53px;
     margin-left: auto;
+    margin-right: 312px;
   }
 
   .u-header .u-menu-1 {
