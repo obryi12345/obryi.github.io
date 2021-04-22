@@ -135,11 +135,16 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 811px;
+    min-height: 825px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 14px;
+    margin-bottom: 10px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 771px;
+    min-height: 801px;
   }
 
   .u-section-1 .u-table-1 {
